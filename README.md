@@ -12,5 +12,5 @@ Este jogo foi desenvolvido junto a ao curso "Formação em C" da empresa Alura p
 
 ## Tecnologias Usadas
 
-Linguagem: C
-Ferramentas: GCC
+- Linguagem: C
+- Ferramentas: GCC
